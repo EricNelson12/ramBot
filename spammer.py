@@ -3,8 +3,7 @@
 #                          2015 (C) Kushara Singh
 #                         kushagra14056@iiitd.ac.in
 #
-#                           Licensed under WTFPL
-#               Do What the Fuck You Want to Public License
+#                           Licensed under WTFPL#               
 #                          http://www.wtfpl.net/
 #
 #              Author is nor liable for misuse; Use carefully!
